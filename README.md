@@ -1,6 +1,13 @@
 # Putz
 
-TODO: Write a gem description
+PDD (puts driven development) is a greedy algorithm optimizing for
+linewise development at the expense of maintainability, readability,
+correctness and design.
+
+That is, your program may be optimal considering one line to the next,
+but perfectly horrible when considered as a whole.
+
+PDD is a terrible addiction, and we're here to help.
 
 ## Installation
 
